@@ -14,6 +14,7 @@ What is number 1?
 What is number 2?
 6
 Your result is 9
+
 ```
 
 ### Challenge 2 - Reverse a string
